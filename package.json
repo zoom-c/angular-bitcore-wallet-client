@@ -10,7 +10,7 @@
     "bitcore-wallet-client": "zoom-c/bitcore-wallet-client#Zoom"
   },
   "repository": {
-    "url": "git://github.com/bitpay/angular-bitcore-wallet-client.git",
+    "url": "git://github.com/zoom-c/angular-bitcore-wallet-client.git#Zoom",
     "type": "git"
   }
 }

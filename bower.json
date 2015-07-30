@@ -7,7 +7,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:bitpay/angular-bitcore-wallet-client.git"
+    "url": "git@github.com:zoom/angular-bitcore-wallet-client.git#Zoom"
   },
   "ignore": [
     "**/.*",
